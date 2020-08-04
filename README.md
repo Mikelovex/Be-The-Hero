@@ -1,6 +1,6 @@
-# Be-The-Hero
+# Be The Hero
 
-## Be The Hero: aplicação com intuito de conectar pessoas interessadas em ajudar ONGS
+## Be The Hero: aplicação com intuito de conectar pessoas interessadas em ajudar ONGs.
 
 **Somente front-end usando ReactJS.**
 
